@@ -1,2 +1,2 @@
-# HannDDoS-Toolshttps://github.com/Gioxaa/HannDDoS-Tools/tree/main
+# HannDDoS-Tools - https://github.com/Gioxaa/HannDDoS-Tools/tree/main
 a simple proxy ddos tools using python
