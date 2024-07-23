@@ -2,4 +2,4 @@
 [Python 3.10+](https://python.org/download/)
 
 # Usage
-Just Open the file
+Just Open the main.py
