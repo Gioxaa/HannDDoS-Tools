@@ -1,2 +1,5 @@
-# HannDDoS-Tools - https://github.com/Gioxaa/HannDDoS-Tools/tree/main
-a simple proxy ddos tools using python
+# Requirements:
+[Python 3.10+](https://python.org/download/)
+
+# Usage
+Just Open the file
